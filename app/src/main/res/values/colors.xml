@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4C5264</color>
+    <color name="colorPrimaryDark">#2B2F3E</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Color text for card view -->
+    <color name="cv_colorTextMain">#555555</color>
+    <color name="cv_colorSubtext">#7A7A7A</color>
+
+    <!-- Button color for Full View -->
+    <color name="buttonColor">#FF0068</color>
+
+
+</resources>

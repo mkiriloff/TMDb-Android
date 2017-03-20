@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoyaltyPlant</string>
+
+    <!-- activity_fullview -->
+    <string name="vl_button_go_to_homepage">Go to homepage</string>
+
+    <!-- item -->
+    <string name="cv_title">Title</string>
+    <string name="cv_about_movie">Overview</string>
+    <string name="cv_year">Year</string>
+
+    <!-- activity_fullview -->
+    <string name="vl_overview">Overview</string>
+    <string name="vl_genres">Genres</string>
+    <string name="vl_countries">Countries</string>
+
+</resources>

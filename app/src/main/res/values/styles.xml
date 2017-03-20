@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Style Text for card view -->
+    <style name="ToolbarTheme" parent="AppTheme"/>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.CollapsingBar" parent="AppTheme.NoActionBar"/>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <!-- Style Text for card view -->
+
+    <style name="cv_TextMain">
+        <item name="android:textColor">@color/cv_colorTextMain</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="cv_TextSubText">
+        <item name="android:textColor">@color/cv_colorSubtext</item>
+        <item name="android:textSize">10dp</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <!-- Style Text for full view -->
+
+    <style name="vl_TextMain">
+        <item name="android:textColor">@color/cv_colorTextMain</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="vl_TextTitle">
+        <item name="android:textColor">@color/cv_colorTextMain</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="vl_TextSubText">
+        <item name="android:textColor">@color/cv_colorSubtext</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="vl_TextOverview">
+        <item name="android:textColor">@color/cv_colorTextMain</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+</resources>

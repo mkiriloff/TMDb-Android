@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Dimens for card view -->
+
+    <dimen name="cv_iv_height">112dp</dimen>
+    <dimen name="cv_width">180dp</dimen>
+
+    <!-- Dimens for full view -->
+
+    <dimen name="vl_fontSizeMain">16dp</dimen>
+    <dimen name="vl_fontSizeSubtext">14dp</dimen>
+    <dimen name="vl_fontSizeTitle">20dp</dimen>
+
+
+</resources>
